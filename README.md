@@ -17,8 +17,8 @@ Here are some ideas to get you started:
  
  ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 S𝚘𝚏𝚝𝚠𝚊𝚛𝚎 D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & Travel Professional 
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://iglesias.group/wp-content/uploads/2021/09/logo_IGL.png" height="30em" align="center" alt="IglesiasGroup" title="Iglesias-Group"/>](https://iglesias.group/) 𝚊𝚗𝚍 [<img src="https://samba.tours/wp-content/uploads/2021/09/samba-logo_ST.png" height="30em" align="center" alt="SambaTours" title="Samba-Tours"/>](https://samba.tours/)
-
+<!-- - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://iglesias.group/wp-content/uploads/2021/09/logo_IGL.png" height="30em" align="center" alt="IglesiasGroup" title="Iglesias-Group"/>](https://iglesias.group/) 𝚊𝚗𝚍 [<img src="https://samba.tours/wp-content/uploads/2021/09/samba-logo_ST.png" height="30em" align="center" alt="SambaTours" title="Samba-Tours"/>](https://samba.tours/)
+ -->
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bussiness Administration 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 Estacio de Sá
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
