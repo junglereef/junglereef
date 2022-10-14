@@ -16,12 +16,12 @@ Here are some ideas to get you started:
  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=iglesias-group&color=00df00)
  
  ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Junior D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & Travel Professional 
+- 🖥 Front-End D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & travel enthusiast 
 <!-- - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://iglesias.group/wp-content/uploads/2021/09/logo_IGL.png" height="30em" align="center" alt="IglesiasGroup" title="Iglesias-Group"/>](https://iglesias.group/) 𝚊𝚗𝚍 [<img src="https://samba.tours/wp-content/uploads/2021/09/samba-logo_ST.png" height="30em" align="center" alt="SambaTours" title="Samba-Tours"/>](https://samba.tours/)
  -->
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bussiness Administration 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 Estacio de Sá
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bussiness Administration 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 Estacio de Sá
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊𝚗 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 [**InfoDev**](https://github.com/junglereef/InfoDev) as part of my Digital House - Web Full Stack course 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- integrate [**Viator API**](https://docs.viator.com/partner-api/affiliate/technical/) in my projects 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚒𝚝 𝚒𝚗𝚝𝚘 𝚊 Wordpress 𝚙𝚕𝚞𝚐𝚒𝚗
