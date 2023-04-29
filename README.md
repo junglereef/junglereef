@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  -->
- 
- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=iglesias-group&color=00df00)
- 
+
  ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Front-End D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & travel enthusiast 
 <!-- - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://iglesias.group/wp-content/uploads/2021/09/logo_IGL.png" height="30em" align="center" alt="IglesiasGroup" title="Iglesias-Group"/>](https://iglesias.group/) 𝚊𝚗𝚍 [<img src="https://samba.tours/wp-content/uploads/2021/09/samba-logo_ST.png" height="30em" align="center" alt="SambaTours" title="Samba-Tours"/>](https://samba.tours/)
